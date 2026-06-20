@@ -18,3 +18,4 @@ compatibility_date = "2025-11-21"
 UPSTREAM_BASE_URL = "https://unlimited.surf"
 DEFAULT_MODEL = "gateway-gpt-5-5"
 DEFAULT_CLAUDE_MODEL = "claude-opus-4-7-20260101"
+
