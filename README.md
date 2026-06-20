@@ -4,7 +4,7 @@
 
 这是一个 Cloudflare Worker 中转适配器，用于把 `https://unlimited.surf` 转换成 OpenAI 兼容的 `/v1/*` 接口，以及 Anthropic/Claude Code 兼容的 `/v1/messages` 和 `/anthropic/*` 接口。
 
-## 功能概览
+## 功能概览=
 
 - OpenAI 兼容：`/v1/chat/completions`、`/v1/responses`、`/v1/models`、`/v1/files`。
 - Anthropic 兼容：`/v1/messages`、`/v1/models`、`/anthropic/v1/messages`、`/anthropic/v1/models`。
